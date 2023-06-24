@@ -1,0 +1,5 @@
+alias git_alias="alias | grep 'alias gt' | sed 's/alias //'"
+alias gtlg="git log"
+alias gtcf="git commit"
+alias gtcs="git commit -m"
+alias gtca="git commit --amend --no-edit"
